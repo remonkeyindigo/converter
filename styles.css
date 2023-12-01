@@ -1,0 +1,29 @@
+body {
+
+  background-color: #89ef;
+
+}
+
+
+
+.head {
+  color: red;
+  background-color: powderblue;
+  text-align: center;
+  border-radius: 3px;
+}
+
+.select {
+  color: white;
+  background-color: grey;
+}
+
+.answer {
+  border-radius: 5px;
+  border-color: purple;
+}
+
+.input {
+  border-radius: 5px;
+  border-color: purple;
+}
